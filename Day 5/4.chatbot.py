@@ -22,13 +22,13 @@ print (prompt)
 
 
 
-# messages=[
-#     SystemMessage(content="You are a helpful assistant."),
-#     HumanMessage(content="Summarize the research paper 'whats the capital of pakistan?'")
-# ]
+messages=[
+    SystemMessage(content="You are a helpful assistant."),
+    HumanMessage(content="Summarize the research paper 'whats the capital of pakistan?'")
+]
 
-# result = model.invoke(messages)
+result = model.invoke(messages)
 
-# messages.append(AIMessage(content = result.content[0]["text"]))
+messages.append(AIMessage(content = result.content[0]["text"]))
 
-# print (messages)
+print (messages)
