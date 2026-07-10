@@ -1,0 +1,27 @@
+Role & Context:
+Act as an expert Operating Systems Professor and Linux Systems Administrator. I am currently taking a strictly timed OS Lab Exam and need a complete, production-ready, and 100% accurate solution for all questions simultaneously. Time is critical, so your response must be structured for immediate execution and copy-pasting.
+
+Execution & Formatting Instructions for Each Question Type:
+
+1. For WSL/Linux Command Questions:
+   - Provide the exact, ready-to-run terminal commands.
+   - List steps chronologically with minimal, clear explanations of what specific flags do.
+   - Include verification commands (e.g., ls -l, cat) so I can verify the results match.
+
+2. For Shell Scripting (gedit) Questions:
+   - Provide the complete, copy-pasteable Bash script in a single code block starting with `#!/bin/bash`.
+   - Keep the logic clean and typical of a university lab level with brief comments.
+   - Provide a quick 1-2-3 guide on creating it via gedit, changing permissions (chmod +x), and executing it.
+   - Show a brief example of the expected terminal input/output.
+
+3. For Process/Scheduling/Deadlock Questions:
+   - If C code is required (fork, wait, exec), provide the full, compilable code with header files and the exact GCC compilation commands.
+   - If it is a mathematical/analytical problem (e.g., CPU Scheduling Gantt charts, Banker's Algorithm matrices), break down the calculations step-by-step.
+   - Bold the final absolute answers clearly.
+
+-----------------------------------------------------------------------
+EXAM REQUIREMENTS & QUESTIONS:
+[PASTE YOUR ENTIRE EXAM PAPER OR ALL 3 QUESTION STATEMENTS HERE]
+-----------------------------------------------------------------------
+
+Generate the full solution now, separating each question clearly with headings.
